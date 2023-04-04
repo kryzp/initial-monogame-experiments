@@ -1,6 +1,0 @@
-D:\_Programming_Projects\C#\AsciiSnake\AsciiSnake\bin\Debug\AsciiSnake.exe
-D:\_Programming_Projects\C#\AsciiSnake\AsciiSnake\bin\Debug\AsciiSnake.pdb
-D:\_Programming_Projects\C#\AsciiSnake\AsciiSnake\obj\Debug\AsciiSnake.csprojAssemblyReference.cache
-D:\_Programming_Projects\C#\AsciiSnake\AsciiSnake\obj\Debug\AsciiSnake.csproj.CoreCompileInputs.cache
-D:\_Programming_Projects\C#\AsciiSnake\AsciiSnake\obj\Debug\AsciiSnake.exe
-D:\_Programming_Projects\C#\AsciiSnake\AsciiSnake\obj\Debug\AsciiSnake.pdb

@@ -1,5 +1,0 @@
-D:\_Programming_Projects\C#\AutoAlgorithm\AutoAlgorithm\bin\Debug\AutoAlgorithm.exe
-D:\_Programming_Projects\C#\AutoAlgorithm\AutoAlgorithm\bin\Debug\AutoAlgorithm.pdb
-D:\_Programming_Projects\C#\AutoAlgorithm\AutoAlgorithm\obj\Debug\AutoAlgorithm.csprojAssemblyReference.cache
-D:\_Programming_Projects\C#\AutoAlgorithm\AutoAlgorithm\obj\Debug\AutoAlgorithm.exe
-D:\_Programming_Projects\C#\AutoAlgorithm\AutoAlgorithm\obj\Debug\AutoAlgorithm.pdb
