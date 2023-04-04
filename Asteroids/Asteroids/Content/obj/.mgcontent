@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/_Programming_Projects/MonoGame/Misc/Asteroids/Asteroids/Content/asteroids.png</File>
+    <File>D:/_Programming_Projects/MonoGame/Misc/Asteroids/Asteroids/Content/fonts/arial.spritefont</File>
+    <File>D:/_Programming_Projects/MonoGame/Misc/Asteroids/Asteroids/Content/ship.png</File>
+    <File>D:/_Programming_Projects/MonoGame/Misc/Asteroids/Asteroids/Content/shipBullet.png</File>
+    <File>D:/_Programming_Projects/MonoGame/Misc/Asteroids/Asteroids/Content/smallAsteroids.png</File>
+    <File>D:/_Programming_Projects/MonoGame/Misc/Asteroids/Asteroids/Content/snowman.png</File>
+    <File>D:/_Programming_Projects/MonoGame/Misc/Asteroids/Asteroids/Content/snowmanBullet.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

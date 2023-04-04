@@ -1,0 +1,4 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"D:/_Programming_Projects/MonoGame/Working On/Pong/Pong/Content/ball.png","D:/_Programming_Projects/MonoGame/Working On/Pong/Pong/Content/bin/ball.xnb","TextureProcessor","Texture2DContent",98,985,0.2194098
+"D:/_Programming_Projects/MonoGame/Working On/Pong/Pong/Content/paddle.png","D:/_Programming_Projects/MonoGame/Working On/Pong/Pong/Content/bin/paddle.xnb","TextureProcessor","Texture2DContent",115,4885,0.0039903
+"D:/_Programming_Projects/MonoGame/Working On/Pong/Pong/Content/scorefont.spritefont","D:/_Programming_Projects/MonoGame/Working On/Pong/Pong/Content/bin/scorefont.xnb","LocalizedFontProcessor","SpriteFontContent",2426,1035,0.2832419

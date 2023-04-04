@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.218
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WiggleCreator", "WiggleCreator\WiggleCreator.csproj", "{D6CD67D2-BCDD-4CF9-97BD-4742BE6F1274}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6CD67D2-BCDD-4CF9-97BD-4742BE6F1274}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6CD67D2-BCDD-4CF9-97BD-4742BE6F1274}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6CD67D2-BCDD-4CF9-97BD-4742BE6F1274}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6CD67D2-BCDD-4CF9-97BD-4742BE6F1274}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34749FDD-B821-4B0F-A09D-9BCA14F9BFC2}
+	EndGlobalSection
+EndGlobal

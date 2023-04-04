@@ -1,0 +1,3 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"D:/_Programming_Projects/MonoGame/Misc/CollisionTest2/CollisionTest2/Content/bush.png","D:/_Programming_Projects/MonoGame/Misc/CollisionTest2/CollisionTest2/Content/bin/DesktopGL/Content/bush.xnb","TextureProcessor","Texture2DContent",462,1237,0.2124337
+"D:/_Programming_Projects/MonoGame/Misc/CollisionTest2/CollisionTest2/Content/oak_tree.png","D:/_Programming_Projects/MonoGame/Misc/CollisionTest2/CollisionTest2/Content/bin/DesktopGL/Content/oak_tree.xnb","TextureProcessor","Texture2DContent",2158,8989,0.0049883

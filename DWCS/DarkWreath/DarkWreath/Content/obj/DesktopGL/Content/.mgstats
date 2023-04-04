@@ -1,0 +1,17 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"D:/DWCS/DarkWreath/DarkWreath/Content/actors/enemy/crabbe.png","D:/DWCS/DarkWreath/DarkWreath/Content/bin/DesktopGL/Content/actors/enemy/crabbe.xnb","TextureProcessor","Texture2DContent",291,1109,0.1492753
+"D:/DWCS/DarkWreath/DarkWreath/Content/actors/enemy/john.png","D:/DWCS/DarkWreath/DarkWreath/Content/bin/DesktopGL/Content/actors/enemy/john.xnb","TextureProcessor","Texture2DContent",5072,25253,0.0020197
+"D:/DWCS/DarkWreath/DarkWreath/Content/debug_font.spritefont","D:/DWCS/DarkWreath/DarkWreath/Content/bin/DesktopGL/Content/debug_font.xnb","FontDescriptionProcessor","SpriteFontContent",2017,21538,0.237516
+"D:/DWCS/DarkWreath/DarkWreath/Content/items/weapons/ranged/crossbow.png","D:/DWCS/DarkWreath/DarkWreath/Content/bin/DesktopGL/Content/items/weapons/ranged/crossbow.xnb","TextureProcessor","Texture2DContent",439,16469,0.1480919
+"D:/DWCS/DarkWreath/DarkWreath/Content/items/weapons/ranged/projectiles.png","D:/DWCS/DarkWreath/DarkWreath/Content/bin/DesktopGL/Content/items/weapons/ranged/projectiles.xnb","TextureProcessor","Texture2DContent",104,1109,0.1245546
+"D:/DWCS/DarkWreath/DarkWreath/Content/items/weapons/ranged/revolver.png","D:/DWCS/DarkWreath/DarkWreath/Content/bin/DesktopGL/Content/items/weapons/ranged/revolver.xnb","TextureProcessor","Texture2DContent",3855,82005,0.0028887
+"D:/DWCS/DarkWreath/DarkWreath/Content/maps/metatiles.png","D:/DWCS/DarkWreath/DarkWreath/Content/bin/DesktopGL/Content/maps/metatiles.xnb","TextureProcessor","Texture2DContent",366,6229,0.12397
+"D:/DWCS/DarkWreath/DarkWreath/Content/maps/metatiles.tsx","D:\DWCS\DarkWreath\DarkWreath\Content\bin\DesktopGL\Content\maps/metatiles.tsx","CopyItem","File",758,758,0.0015744
+"D:/DWCS/DarkWreath/DarkWreath/Content/maps/Sprite-0001.png","D:/DWCS/DarkWreath/DarkWreath/Content/bin/DesktopGL/Content/maps/Sprite-0001.xnb","TextureProcessor","Texture2DContent",277,9301,0.0017988
+"D:/DWCS/DarkWreath/DarkWreath/Content/maps/tileset.tsx","D:\DWCS\DarkWreath\DarkWreath\Content\bin\DesktopGL\Content\maps/tileset.tsx","CopyItem","File",403,403,0.0585042
+"D:/DWCS/DarkWreath/DarkWreath/Content/maps/untitled.tmx","D:\DWCS\DarkWreath\DarkWreath\Content\bin\DesktopGL\Content\maps/untitled.tmx","CopyItem","File",3586,3586,0.0016424
+"D:/DWCS/DarkWreath/DarkWreath/Content/shaders/marauder_ui.fx","D:/DWCS/DarkWreath/DarkWreath/Content/bin/DesktopGL/Content/shaders/marauder_ui.xnb","EffectProcessor","CompiledEffectContent",1818,3021,0.4056522
+"D:/DWCS/DarkWreath/DarkWreath/Content/temp.png","D:/DWCS/DarkWreath/DarkWreath/Content/bin/DesktopGL/Content/temp.xnb","TextureProcessor","Texture2DContent",108,2133,0.1594998
+"D:/DWCS/DarkWreath/DarkWreath/Content/white_circle_128.png","D:/DWCS/DarkWreath/DarkWreath/Content/bin/DesktopGL/Content/white_circle_128.xnb","TextureProcessor","Texture2DContent",892,65621,0.0037361
+"D:/DWCS/DarkWreath/DarkWreath/Content/white_gradient.png","D:/DWCS/DarkWreath/DarkWreath/Content/bin/DesktopGL/Content/white_gradient.xnb","TextureProcessor","Texture2DContent",99,597,0.1339605
+"D:/DWCS/DarkWreath/DarkWreath/Content/white_px.png","D:/DWCS/DarkWreath/DarkWreath/Content/bin/DesktopGL/Content/white_px.xnb","TextureProcessor","Texture2DContent",81,89,0.0014929

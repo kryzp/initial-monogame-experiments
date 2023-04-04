@@ -1,0 +1,3 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"D:/_Programming_Projects/MonoGame/Misc/TopDownMovement/TopDownMovement/Content/environment/wall.png","D:/_Programming_Projects/MonoGame/Misc/TopDownMovement/TopDownMovement/Content/bin/environment/wall.xnb","TextureProcessor","Texture2DContent",313,1109,0.5026713
+"D:/_Programming_Projects/MonoGame/Misc/TopDownMovement/TopDownMovement/Content/player.png","D:/_Programming_Projects/MonoGame/Misc/TopDownMovement/TopDownMovement/Content/bin/player.xnb","TextureProcessor","Texture2DContent",164,213,0.0039594

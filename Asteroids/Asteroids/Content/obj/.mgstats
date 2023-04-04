@@ -1,0 +1,8 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"D:/_Programming_Projects/MonoGame/Misc/Asteroids/Asteroids/Content/asteroids.png","D:/_Programming_Projects/MonoGame/Misc/Asteroids/Asteroids/Content/bin/asteroids.xnb","TextureProcessor","Texture2DContent",379,4181,0.1774945
+"D:/_Programming_Projects/MonoGame/Misc/Asteroids/Asteroids/Content/fonts/arial.spritefont","D:/_Programming_Projects/MonoGame/Misc/Asteroids/Asteroids/Content/bin/fonts/arial.xnb","FontDescriptionProcessor","SpriteFontContent",2016,267281,0.3782585
+"D:/_Programming_Projects/MonoGame/Misc/Asteroids/Asteroids/Content/ship.png","D:/_Programming_Projects/MonoGame/Misc/Asteroids/Asteroids/Content/bin/ship.xnb","TextureProcessor","Texture2DContent",158,805,0.0039903
+"D:/_Programming_Projects/MonoGame/Misc/Asteroids/Asteroids/Content/shipBullet.png","D:/_Programming_Projects/MonoGame/Misc/Asteroids/Asteroids/Content/bin/shipBullet.xnb","TextureProcessor","Texture2DContent",100,105,0.0039886
+"D:/_Programming_Projects/MonoGame/Misc/Asteroids/Asteroids/Content/smallAsteroids.png","D:/_Programming_Projects/MonoGame/Misc/Asteroids/Asteroids/Content/bin/smallAsteroids.xnb","TextureProcessor","Texture2DContent",201,1109,0.0049897
+"D:/_Programming_Projects/MonoGame/Misc/Asteroids/Asteroids/Content/snowman.png","D:/_Programming_Projects/MonoGame/Misc/Asteroids/Asteroids/Content/bin/snowman.xnb","TextureProcessor","Texture2DContent",356,1685,0.0039889
+"D:/_Programming_Projects/MonoGame/Misc/Asteroids/Asteroids/Content/snowmanBullet.png","D:/_Programming_Projects/MonoGame/Misc/Asteroids/Asteroids/Content/bin/snowmanBullet.xnb","TextureProcessor","Texture2DContent",148,341,0.0029894

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>D:/SpellpathCS/Spellpath/Content/maps/alchemy_shop_region.tmx</SourceFile>
+  <SourceTime>2022-04-24T17:03:33.4457768+01:00</SourceTime>
+  <DestFile>D:/SpellpathCS/Spellpath/Content/bin/DesktopGL/Content/maps/alchemy_shop_region.xnb</DestFile>
+  <DestTime>2022-04-30T18:54:56.3794232+01:00</DestTime>
+  <Importer>TiledMapImporter</Importer>
+  <ImporterTime>2020-08-29T18:17:30+01:00</ImporterTime>
+  <Processor>TiledMapProcessor</Processor>
+  <ProcessorTime>2020-08-29T18:17:30+01:00</ProcessorTime>
+  <Dependencies />
+  <BuildAsset>
+    <string>D:/SpellpathCS/Spellpath/Content/bin/DesktopGL/Content/maps/outdoors_tileset.xnb</string>
+    <string>D:/SpellpathCS/Spellpath/Content/bin/DesktopGL/Content/maps/metatiles.xnb</string>
+  </BuildAsset>
+  <BuildOutput />
+</PipelineBuildEvent>

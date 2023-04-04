@@ -1,0 +1,3 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"D:/_PROJECTS/montecarlovisualized/montecarlovisualized/Content/crt.fx","D:/_PROJECTS/montecarlovisualized/montecarlovisualized/Content/bin/DesktopGL/Content/crt.xnb","EffectProcessor","CompiledEffectContent",2462,4566,0.4493864
+"D:/_PROJECTS/montecarlovisualized/montecarlovisualized/Content/point.png","D:/_PROJECTS/montecarlovisualized/montecarlovisualized/Content/bin/DesktopGL/Content/point.xnb","TextureProcessor","Texture2DContent",232,89,0.1249875

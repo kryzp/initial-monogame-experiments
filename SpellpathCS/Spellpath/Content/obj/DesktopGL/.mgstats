@@ -1,0 +1,13 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"D:/Spellpath/Spellpath/Content/buildings/player_houses.png","D:/Spellpath/Spellpath/Content/bin/DesktopGL/buildings/player_houses.xnb","TextureProcessor","Texture2DContent",6598,699269,0.2989095
+"D:/Spellpath/Spellpath/Content/debug_font.spritefont","D:/Spellpath/Spellpath/Content/bin/DesktopGL/debug_font.xnb","FontDescriptionProcessor","SpriteFontContent",2017,21538,0.1785287
+"D:/Spellpath/Spellpath/Content/maps/alchemy_shop_region.tmx","D:/Spellpath/Spellpath/Content/bin/DesktopGL/maps/alchemy_shop_region.xnb","TiledMapProcessor","TiledMapContentItem",3922,3320,0.1261342
+"D:/Spellpath/Spellpath/Content/maps/forest.tmx","D:/Spellpath/Spellpath/Content/bin/DesktopGL/maps/forest.xnb","TiledMapProcessor","TiledMapContentItem",3909,3179,0.0154162
+"D:/Spellpath/Spellpath/Content/maps/metatiles.png","D:/Spellpath/Spellpath/Content/bin/DesktopGL/maps/metatiles.xnb","TextureProcessor","Texture2DContent",366,6229,0.0018987
+"D:/Spellpath/Spellpath/Content/maps/metatiles.tsx","D:/Spellpath/Spellpath/Content/bin/DesktopGL/maps/metatiles.xnb","TiledMapTilesetProcessor","TiledMapTilesetContentItem",758,296,0.0015282
+"D:/Spellpath/Spellpath/Content/maps/outdoors_tileset.tsx","D:/Spellpath/Spellpath/Content/bin/DesktopGL/maps/outdoors_tileset.xnb","TiledMapTilesetProcessor","TiledMapTilesetContentItem",250,143,0.0365597
+"D:/Spellpath/Spellpath/Content/maps/outdoors_tileset_img.png","D:/Spellpath/Spellpath/Content/bin/DesktopGL/maps/outdoors_tileset_img.xnb","TextureProcessor","Texture2DContent",2552,65621,0.0036547
+"D:/Spellpath/Spellpath/Content/menus/misc.png","D:/Spellpath/Spellpath/Content/bin/DesktopGL/menus/misc.xnb","TextureProcessor","Texture2DContent",1204,244309,0.0134136
+"D:/Spellpath/Spellpath/Content/misc/cursors.png","D:/Spellpath/Spellpath/Content/bin/DesktopGL/misc/cursors.xnb","TextureProcessor","Texture2DContent",96,4181,0.0058346
+"D:/Spellpath/Spellpath/Content/pixel.png","D:/Spellpath/Spellpath/Content/bin/DesktopGL/pixel.xnb","TextureProcessor","Texture2DContent",81,89,0.0048933
+"D:/Spellpath/Spellpath/Content/weapons/electrode_rifle.png","D:/Spellpath/Spellpath/Content/bin/DesktopGL/weapons/electrode_rifle.xnb","TextureProcessor","Texture2DContent",420,2005,0.0063249

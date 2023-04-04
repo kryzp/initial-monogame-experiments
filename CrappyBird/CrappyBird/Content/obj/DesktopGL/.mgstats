@@ -1,0 +1,4 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"D:/_Programming_Projects/MonoGame/Misc/CrappyBird/CrappyBird/Content/pipes/bottomPipe.png","D:/_Programming_Projects/MonoGame/Misc/CrappyBird/CrappyBird/Content/bin/DesktopGL/pipes/bottomPipe.xnb","TextureProcessor","Texture2DContent",426,50085,0.7684766
+"D:/_Programming_Projects/MonoGame/Misc/CrappyBird/CrappyBird/Content/pipes/topPipe.png","D:/_Programming_Projects/MonoGame/Misc/CrappyBird/CrappyBird/Content/bin/DesktopGL/pipes/topPipe.xnb","TextureProcessor","Texture2DContent",450,50085,0.0069817
+"D:/_Programming_Projects/MonoGame/Misc/CrappyBird/CrappyBird/Content/players/yellowBirb.png","D:/_Programming_Projects/MonoGame/Misc/CrappyBird/CrappyBird/Content/bin/DesktopGL/players/yellowBirb.xnb","TextureProcessor","Texture2DContent",301,901,0.004984

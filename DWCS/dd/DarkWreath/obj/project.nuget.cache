@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "T9EWME4WjX68f5U2Q0npQp8EFRm5fSY2XIQxZKbA/czTntv4cN5lB3E3FsEehBjlhF1ORnDaKGn6cdGcIT16xg==",
+  "success": true,
+  "projectFilePath": "D:\\DWCS\\DarkWreath\\DarkWreath\\DarkWreath.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KPrze\\.nuget\\packages\\monogame.content.builder.task\\3.8.0.1641\\monogame.content.builder.task.3.8.0.1641.nupkg.sha512",
+    "C:\\Users\\KPrze\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.0.1641\\monogame.framework.desktopgl.3.8.0.1641.nupkg.sha512",
+    "C:\\Users\\KPrze\\.nuget\\packages\\tiledcs\\3.1.0\\tiledcs.3.1.0.nupkg.sha512",
+    "C:\\Users\\KPrze\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.24\\microsoft.netcore.app.host.win-x64.3.1.24.nupkg.sha512"
+  ],
+  "logs": []
+}

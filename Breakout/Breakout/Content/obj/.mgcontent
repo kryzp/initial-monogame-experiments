@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/_Programming_Projects/MonoGame/Misc/Breakout/Breakout/Content/fonts/Pixeled.spritefont</File>
+    <File>D:/_Programming_Projects/MonoGame/Misc/Breakout/Breakout/Content/fonts/Pixellari.spritefont</File>
+    <File>D:/_Programming_Projects/MonoGame/Misc/Breakout/Breakout/Content/fonts/pixelMiners.spritefont</File>
+    <File>D:/_Programming_Projects/MonoGame/Misc/Breakout/Breakout/Content/gui/gameOverImage.png</File>
+    <File>D:/_Programming_Projects/MonoGame/Misc/Breakout/Breakout/Content/gui/medals/bronzeMedal.png</File>
+    <File>D:/_Programming_Projects/MonoGame/Misc/Breakout/Breakout/Content/gui/medals/lavaMedal.png</File>
+    <File>D:/_Programming_Projects/MonoGame/Misc/Breakout/Breakout/Content/gui/medals/leafMedal.png</File>
+    <File>D:/_Programming_Projects/MonoGame/Misc/Breakout/Breakout/Content/gui/medals/silverMedal.png</File>
+    <File>D:/_Programming_Projects/MonoGame/Misc/Breakout/Breakout/Content/world/ball.png</File>
+    <File>D:/_Programming_Projects/MonoGame/Misc/Breakout/Breakout/Content/world/bricks/ballBrick.png</File>
+    <File>D:/_Programming_Projects/MonoGame/Misc/Breakout/Breakout/Content/world/bricks/bombBrick.png</File>
+    <File>D:/_Programming_Projects/MonoGame/Misc/Breakout/Breakout/Content/world/bricks/brick.png</File>
+    <File>D:/_Programming_Projects/MonoGame/Misc/Breakout/Breakout/Content/world/bricks/brick0.png</File>
+    <File>D:/_Programming_Projects/MonoGame/Misc/Breakout/Breakout/Content/world/bricks/brick1.png</File>
+    <File>D:/_Programming_Projects/MonoGame/Misc/Breakout/Breakout/Content/world/bricks/scoreBrick.png</File>
+    <File>D:/_Programming_Projects/MonoGame/Misc/Breakout/Breakout/Content/world/bricks/timeBrick.png</File>
+    <File>D:/_Programming_Projects/MonoGame/Misc/Breakout/Breakout/Content/world/paddle.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File>fonts/pixeled.spritefont</File>
+    <File>fonts/pixellari.spritefont</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

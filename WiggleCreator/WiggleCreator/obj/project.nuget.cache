@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ciVpWhNEnanOofU35C5I7SeRAuKRvOLthunVJyYte+Ss8R9JlJrVFYg+UXWhVqJyEzqeMSnjYsqocNgvR5U1dQ==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\C#\\WiggleCreator\\WiggleCreator\\WiggleCreator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrysP\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

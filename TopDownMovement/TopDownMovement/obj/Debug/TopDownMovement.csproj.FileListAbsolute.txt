@@ -1,0 +1,11 @@
+D:\_Programming_Projects\MonoGame\Misc\TopDownMovement\TopDownMovement\bin\Debug\TopDownMovement.exe
+D:\_Programming_Projects\MonoGame\Misc\TopDownMovement\TopDownMovement\bin\Debug\TopDownMovement.pdb
+D:\_Programming_Projects\MonoGame\Misc\TopDownMovement\TopDownMovement\bin\Debug\MonoGame.Framework.dll
+D:\_Programming_Projects\MonoGame\Misc\TopDownMovement\TopDownMovement\bin\Debug\MonoGame.Framework.xml
+D:\_Programming_Projects\MonoGame\Misc\TopDownMovement\TopDownMovement\obj\Debug\TopDownMovement.csprojAssemblyReference.cache
+D:\_Programming_Projects\MonoGame\Misc\TopDownMovement\TopDownMovement\obj\Debug\TopDownMovement.csproj.CoreCompileInputs.cache
+D:\_Programming_Projects\MonoGame\Misc\TopDownMovement\TopDownMovement\obj\Debug\TopDownMovement.csproj.CopyComplete
+D:\_Programming_Projects\MonoGame\Misc\TopDownMovement\TopDownMovement\obj\Debug\TopDownMovement.exe
+D:\_Programming_Projects\MonoGame\Misc\TopDownMovement\TopDownMovement\obj\Debug\TopDownMovement.pdb
+D:\_Programming_Projects\MonoGame\Misc\TopDownMovement\TopDownMovement\bin\Debug\Content\bin\environment\wall.xnb
+D:\_Programming_Projects\MonoGame\Misc\TopDownMovement\TopDownMovement\bin\Debug\Content\bin\player.xnb

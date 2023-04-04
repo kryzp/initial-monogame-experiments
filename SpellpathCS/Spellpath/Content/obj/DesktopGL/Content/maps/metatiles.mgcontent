@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>D:/SpellpathCS/Spellpath/Content/maps/metatiles.tsx</SourceFile>
+  <SourceTime>2021-12-25T15:36:59.838498+00:00</SourceTime>
+  <DestFile>D:/SpellpathCS/Spellpath/Content/bin/DesktopGL/Content/maps/metatiles.xnb</DestFile>
+  <DestTime>2022-05-05T14:58:02.9116159+01:00</DestTime>
+  <Importer>TiledMapTilesetImporter</Importer>
+  <ImporterTime>2020-08-29T18:17:30+01:00</ImporterTime>
+  <Processor>TiledMapTilesetProcessor</Processor>
+  <ProcessorTime>2020-08-29T18:17:30+01:00</ProcessorTime>
+  <Dependencies />
+  <BuildAsset>
+    <string>D:/SpellpathCS/Spellpath/Content/bin/DesktopGL/Content/maps/metatiles_0.xnb</string>
+  </BuildAsset>
+  <BuildOutput />
+</PipelineBuildEvent>

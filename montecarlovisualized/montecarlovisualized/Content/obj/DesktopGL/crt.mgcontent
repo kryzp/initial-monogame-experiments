@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>D:/_PROJECTS/montecarlovisualized/montecarlovisualized/Content/crt.fx</SourceFile>
+  <SourceTime>2021-12-15T19:59:05.4023658+00:00</SourceTime>
+  <DestFile>D:/_PROJECTS/montecarlovisualized/montecarlovisualized/Content/bin/DesktopGL/crt.xnb</DestFile>
+  <DestTime>2021-12-15T19:59:06.9375403+00:00</DestTime>
+  <Importer>EffectImporter</Importer>
+  <ImporterTime>2020-08-10T17:17:54+01:00</ImporterTime>
+  <Processor>EffectProcessor</Processor>
+  <ProcessorTime>2020-08-10T17:17:54+01:00</ProcessorTime>
+  <Parameters>
+    <Key>DebugMode</Key>
+    <Value>Auto</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

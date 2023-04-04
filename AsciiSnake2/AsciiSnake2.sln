@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsciiSnake2", "AsciiSnake2\AsciiSnake2.csproj", "{EFBBD4FD-CF70-47A5-943C-B59813FBD012}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFBBD4FD-CF70-47A5-943C-B59813FBD012}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFBBD4FD-CF70-47A5-943C-B59813FBD012}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFBBD4FD-CF70-47A5-943C-B59813FBD012}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFBBD4FD-CF70-47A5-943C-B59813FBD012}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="af04edd6-32d0-4233-91a2-44a956e91364" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Asteroids/Managers/AnimationManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Asteroids/Models/Animation.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Asteroids/States/StateBase.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Asteroids/Sprites/Asteroid.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Asteroids/Managers/AsteroidManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Asteroids/Sprites/Bullet.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Asteroids/Sprites/ICollidable.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Asteroids/Sprites/Sprite.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Asteroids/IComponent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Asteroids/Models/Input.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Asteroids/Models/Score.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Asteroids/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Asteroids/Game1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Asteroids/Sprites/Player.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Asteroids/States/StateDebug.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Asteroids/Sprites/SmallAsteroid.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Asteroids/Managers/ScoreManager.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Asteroids/Program.cs" />
+        <option value="$PROJECT_DIR$/Asteroids/models/Input.cs" />
+        <option value="$PROJECT_DIR$/Asteroids/IComponent.cs" />
+        <option value="$PROJECT_DIR$/Asteroids/States/StatePlaying.cs" />
+        <option value="$PROJECT_DIR$/Asteroids/Sprites/ICollidable.cs" />
+        <option value="$PROJECT_DIR$/Asteroids/Util/MathUtil.cs" />
+        <option value="$PROJECT_DIR$/Asteroids/Models/Input.cs" />
+        <option value="$PROJECT_DIR$/Asteroids/Models/Score.cs" />
+        <option value="$PROJECT_DIR$/Asteroids/Managers/ScoreManager.cs" />
+        <option value="$PROJECT_DIR$/Asteroids/Models/Animation.cs" />
+        <option value="$PROJECT_DIR$/Asteroids/Managers/AnimationManager.cs" />
+        <option value="$PROJECT_DIR$/Asteroids/Sprites/SmallAsteroid.cs" />
+        <option value="$PROJECT_DIR$/Asteroids/Sprites/Asteroid.cs" />
+        <option value="$PROJECT_DIR$/Asteroids/Managers/AsteroidManager.cs" />
+        <option value="$PROJECT_DIR$/Asteroids/Content/scoreFont.spritefont" />
+        <option value="$PROJECT_DIR$/Asteroids/Sprites/Bullet.cs" />
+        <option value="$PROJECT_DIR$/Asteroids/States/StateBase.cs" />
+        <option value="$PROJECT_DIR$/Asteroids/Content/arial.spritefont" />
+        <option value="$PROJECT_DIR$/Asteroids/Game1.cs" />
+        <option value="$PROJECT_DIR$/Asteroids/States/StateDebug.cs" />
+        <option value="$PROJECT_DIR$/Asteroids/Asteroids.csproj" />
+        <option value="$PROJECT_DIR$/Asteroids/Sprites/Sprite.cs" />
+        <option value="$PROJECT_DIR$/Asteroids/Sprites/Player.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZMepjQWWrmcdS2voAei42YvUqJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.SolutionExplorerActivator" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Asteroids" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Asteroids/Asteroids.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="af04edd6-32d0-4233-91a2-44a956e91364" name="Default Changelist" comment="" />
+      <created>1584653576537</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584653576537</updated>
+      <workItem from="1584653581687" duration="469000" />
+      <workItem from="1584800128810" duration="919000" />
+      <workItem from="1584801784135" duration="1657000" />
+      <workItem from="1584907881417" duration="2752000" />
+      <workItem from="1584911419235" duration="12772000" />
+      <workItem from="1584974237421" duration="66000" />
+      <workItem from="1584974331362" duration="3532000" />
+      <workItem from="1584981737938" duration="45600000" />
+      <workItem from="1585143295481" duration="1242000" />
+      <workItem from="1585150508621" duration="29000" />
+      <workItem from="1585150572182" duration="9748000" />
+      <workItem from="1585170121143" duration="91000" />
+      <workItem from="1585170320711" duration="121000" />
+      <workItem from="1585170466173" duration="4443000" />
+      <workItem from="1585223222523" duration="1143000" />
+      <workItem from="1585340994869" duration="5665000" />
+      <workItem from="1585401932892" duration="6764000" />
+      <workItem from="1585428062000" duration="8699000" />
+      <workItem from="1585509996361" duration="690000" />
+      <workItem from="1585559832463" duration="45000" />
+      <workItem from="1585563897832" duration="4362000" />
+      <workItem from="1585657480079" duration="255000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="WindowStateProjectService">
+    <state x="722" y="327" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585429772147">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="722" y="327" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1585429772147" />
+    <state width="1877" height="207" key="GridCell.Tab.0.bottom" timestamp="1585582264002">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="207" key="GridCell.Tab.0.bottom/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1585582264002" />
+    <state width="1877" height="207" key="GridCell.Tab.0.center" timestamp="1585582264001">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="207" key="GridCell.Tab.0.center/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1585582264001" />
+    <state width="1877" height="207" key="GridCell.Tab.0.left" timestamp="1585582264001">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="207" key="GridCell.Tab.0.left/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1585582264001" />
+    <state width="1877" height="207" key="GridCell.Tab.0.right" timestamp="1585582264001">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="207" key="GridCell.Tab.0.right/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1585582264001" />
+    <state x="742" y="225" key="RiderGenerateDialog" timestamp="1585069585535">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="742" y="225" key="RiderGenerateDialog/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1585069585535" />
+    <state x="369" y="221" width="1213" height="716" key="SettingsEditor" timestamp="1585436547001">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="369" y="221" width="1213" height="716" key="SettingsEditor/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1585436547001" />
+    <state x="616" y="245" key="run.anything.popup" timestamp="1585405335402">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="616" y="245" key="run.anything.popup/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1585405335402" />
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1585130762609">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1585130762609" />
+  </component>
+</project>

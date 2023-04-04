@@ -1,0 +1,5 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"D:/_PROJECTS/MonogameMirror/MonogameMirror/Content/cube.png","D:/_PROJECTS/MonogameMirror/MonogameMirror/Content/bin/DesktopGL/cube.xnb","TextureProcessor","Texture2DContent",214,709,0.2882886
+"D:/_PROJECTS/MonogameMirror/MonogameMirror/Content/map/tileset.tsx","D:\_PROJECTS\MonogameMirror\MonogameMirror\Content\bin\DesktopGL\map/tileset.tsx","CopyItem","File",570,570,0.0024581
+"D:/_PROJECTS/MonogameMirror/MonogameMirror/Content/mirror.png","D:/_PROJECTS/MonogameMirror/MonogameMirror/Content/bin/DesktopGL/mirror.xnb","TextureProcessor","Texture2DContent",269,2165,0.0071197
+"D:/_PROJECTS/MonogameMirror/MonogameMirror/Content/sheets/stairs.png","D:/_PROJECTS/MonogameMirror/MonogameMirror/Content/bin/DesktopGL/sheets/stairs.xnb","TextureProcessor","Texture2DContent",414,6229,0.0020416

@@ -1,0 +1,3 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"D:/_Programming_Projects/MonoGame/Test/CRTShaderTest/CRTShaderTest/Content/crt_effect.fx","D:/_Programming_Projects/MonoGame/Test/CRTShaderTest/CRTShaderTest/Content/bin/DesktopGL/crt_effect.xnb","EffectProcessor","CompiledEffectContent",658,655,0.5316099
+"D:/_Programming_Projects/MonoGame/Test/CRTShaderTest/CRTShaderTest/Content/forest.jpg","D:/_Programming_Projects/MonoGame/Test/CRTShaderTest/CRTShaderTest/Content/bin/DesktopGL/forest.xnb","TextureProcessor","Texture2DContent",147131,2668085,0.175531

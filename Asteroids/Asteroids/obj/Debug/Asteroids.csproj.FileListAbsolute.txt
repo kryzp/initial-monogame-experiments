@@ -1,0 +1,16 @@
+D:\_Programming_Projects\MonoGame\Misc\Asteroids\Asteroids\bin\Debug\Asteroids.exe
+D:\_Programming_Projects\MonoGame\Misc\Asteroids\Asteroids\bin\Debug\Asteroids.pdb
+D:\_Programming_Projects\MonoGame\Misc\Asteroids\Asteroids\bin\Debug\MonoGame.Framework.dll
+D:\_Programming_Projects\MonoGame\Misc\Asteroids\Asteroids\bin\Debug\MonoGame.Framework.xml
+D:\_Programming_Projects\MonoGame\Misc\Asteroids\Asteroids\obj\Debug\Asteroids.csprojAssemblyReference.cache
+D:\_Programming_Projects\MonoGame\Misc\Asteroids\Asteroids\obj\Debug\Asteroids.csproj.CopyComplete
+D:\_Programming_Projects\MonoGame\Misc\Asteroids\Asteroids\obj\Debug\Asteroids.exe
+D:\_Programming_Projects\MonoGame\Misc\Asteroids\Asteroids\obj\Debug\Asteroids.pdb
+D:\_Programming_Projects\MonoGame\Misc\Asteroids\Asteroids\bin\Debug\Content\bin\asteroids.xnb
+D:\_Programming_Projects\MonoGame\Misc\Asteroids\Asteroids\bin\Debug\Content\bin\ship.xnb
+D:\_Programming_Projects\MonoGame\Misc\Asteroids\Asteroids\bin\Debug\Content\bin\shipBullet.xnb
+D:\_Programming_Projects\MonoGame\Misc\Asteroids\Asteroids\bin\Debug\Content\bin\smallAsteroids.xnb
+D:\_Programming_Projects\MonoGame\Misc\Asteroids\Asteroids\bin\Debug\Content\bin\snowman.xnb
+D:\_Programming_Projects\MonoGame\Misc\Asteroids\Asteroids\bin\Debug\Content\bin\snowmanBullet.xnb
+D:\_Programming_Projects\MonoGame\Misc\Asteroids\Asteroids\obj\Debug\Asteroids.csproj.CoreCompileInputs.cache
+D:\_Programming_Projects\MonoGame\Misc\Asteroids\Asteroids\bin\Debug\Content\bin\fonts\arial.xnb

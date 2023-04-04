@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/DWCS/DarkWreath/DarkWreath/Content/actors/enemy/crabbe.png</File>
+    <File>D:/DWCS/DarkWreath/DarkWreath/Content/actors/enemy/john.png</File>
+    <File>D:/DWCS/DarkWreath/DarkWreath/Content/debug_font.spritefont</File>
+    <File>D:/DWCS/DarkWreath/DarkWreath/Content/items/weapons/ranged/crossbow.png</File>
+    <File>D:/DWCS/DarkWreath/DarkWreath/Content/items/weapons/ranged/projectiles.png</File>
+    <File>D:/DWCS/DarkWreath/DarkWreath/Content/items/weapons/ranged/revolver.png</File>
+    <File>D:/DWCS/DarkWreath/DarkWreath/Content/maps/metatiles.png</File>
+    <File>D:/DWCS/DarkWreath/DarkWreath/Content/maps/Sprite-0001.png</File>
+    <File>D:/DWCS/DarkWreath/DarkWreath/Content/shaders/marauder_ui.fx</File>
+    <File>D:/DWCS/DarkWreath/DarkWreath/Content/temp.png</File>
+    <File>D:/DWCS/DarkWreath/DarkWreath/Content/white_circle_128.png</File>
+    <File>D:/DWCS/DarkWreath/DarkWreath/Content/white_gradient.png</File>
+    <File>D:/DWCS/DarkWreath/DarkWreath/Content/white_px.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

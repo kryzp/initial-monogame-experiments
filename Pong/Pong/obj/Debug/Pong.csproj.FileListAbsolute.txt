@@ -1,0 +1,11 @@
+D:\_Programming_Projects\MonoGame\Working On\Pong\Pong\bin\Debug\Pong.exe
+D:\_Programming_Projects\MonoGame\Working On\Pong\Pong\bin\Debug\Pong.pdb
+D:\_Programming_Projects\MonoGame\Working On\Pong\Pong\bin\Debug\MonoGame.Framework.xml
+D:\_Programming_Projects\MonoGame\Working On\Pong\Pong\obj\Debug\Pong.csprojAssemblyReference.cache
+D:\_Programming_Projects\MonoGame\Working On\Pong\Pong\obj\Debug\Pong.csproj.CopyComplete
+D:\_Programming_Projects\MonoGame\Working On\Pong\Pong\obj\Debug\Pong.exe
+D:\_Programming_Projects\MonoGame\Working On\Pong\Pong\obj\Debug\Pong.pdb
+D:\_Programming_Projects\MonoGame\Working On\Pong\Pong\bin\Debug\MonoGame.Framework.dll
+D:\_Programming_Projects\MonoGame\Working On\Pong\Pong\bin\Debug\Content\bin\ball.xnb
+D:\_Programming_Projects\MonoGame\Working On\Pong\Pong\bin\Debug\Content\bin\paddle.xnb
+D:\_Programming_Projects\MonoGame\Working On\Pong\Pong\bin\Debug\Content\bin\scorefont.xnb

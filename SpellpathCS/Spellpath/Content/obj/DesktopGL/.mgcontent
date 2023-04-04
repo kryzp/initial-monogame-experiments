@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/Spellpath/Spellpath/Content/buildings/player_houses.png</File>
+    <File>D:/Spellpath/Spellpath/Content/debug_font.spritefont</File>
+    <File>D:/Spellpath/Spellpath/Content/maps/alchemy_shop_region.tmx</File>
+    <File>D:/Spellpath/Spellpath/Content/maps/forest.tmx</File>
+    <File>D:/Spellpath/Spellpath/Content/maps/metatiles.png</File>
+    <File>D:/Spellpath/Spellpath/Content/maps/metatiles.tsx</File>
+    <File>D:/Spellpath/Spellpath/Content/maps/outdoors_tileset.tsx</File>
+    <File>D:/Spellpath/Spellpath/Content/maps/outdoors_tileset_img.png</File>
+    <File>D:/Spellpath/Spellpath/Content/menus/misc.png</File>
+    <File>D:/Spellpath/Spellpath/Content/misc/cursors.png</File>
+    <File>D:/Spellpath/Spellpath/Content/pixel.png</File>
+    <File>D:/Spellpath/Spellpath/Content/weapons/electrode_rifle.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

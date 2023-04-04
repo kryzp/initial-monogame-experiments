@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b5d47429-56db-498e-aba3-70608fa50765" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/CollisionTest/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CollisionTest/Sprites/SolidSprite.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CollisionTest/Game1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CollisionTest/Sprites/MouseFollower.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CollisionTest/Sprites/ICollidable.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CollisionTest/Sprites/Sprite.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CollisionTest/IComponent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CollisionTest/Meta/Camera.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/CollisionTest/Program.cs" />
+        <option value="$PROJECT_DIR$/CollisionTest/CollisionTest.csproj" />
+        <option value="$PROJECT_DIR$/CollisionTest/Component.cs" />
+        <option value="$PROJECT_DIR$/CollisionTest/IComponent.cs" />
+        <option value="$PROJECT_DIR$/CollisionTest/Sprites/ICollidable.cs" />
+        <option value="$PROJECT_DIR$/CollisionTest/Sprites/SolidSprite.cs" />
+        <option value="$PROJECT_DIR$/CollisionTest/Sprites/Sprite.cs" />
+        <option value="$PROJECT_DIR$/CollisionTest/Sprites/MouseFollower.cs" />
+        <option value="$PROJECT_DIR$/CollisionTest/Game1.cs" />
+        <option value="$PROJECT_DIR$/CollisionTest/Meta/Camera.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1a5n3TCtOpDgxd1z818NVOrSNYm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.SolutionExplorerActivator" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RunManager">
+    <configuration name="CollisionTest" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/CollisionTest/CollisionTest.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b5d47429-56db-498e-aba3-70608fa50765" name="Default Changelist" comment="" />
+      <created>1586034123553</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586034123553</updated>
+      <workItem from="1586034129289" duration="8192000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="WindowStateProjectService">
+    <state width="1877" height="72" key="GridCell.Tab.0.bottom" timestamp="1586081213850">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="72" key="GridCell.Tab.0.bottom/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1586081213850" />
+    <state width="1877" height="72" key="GridCell.Tab.0.center" timestamp="1586081213850">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="72" key="GridCell.Tab.0.center/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1586081213850" />
+    <state width="1877" height="72" key="GridCell.Tab.0.left" timestamp="1586081213849">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="72" key="GridCell.Tab.0.left/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1586081213849" />
+    <state width="1877" height="72" key="GridCell.Tab.0.right" timestamp="1586081213850">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="72" key="GridCell.Tab.0.right/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1586081213850" />
+    <state x="742" y="225" key="RiderGenerateDialog" timestamp="1586036325839">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="742" y="225" key="RiderGenerateDialog/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1586036325839" />
+  </component>
+</project>

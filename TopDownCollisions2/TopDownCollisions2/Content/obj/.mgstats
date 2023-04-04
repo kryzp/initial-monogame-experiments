@@ -1,0 +1,3 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"D:/_Programming_Projects/MonoGame/Misc/TopDownCollisions2/TopDownCollisions2/Content/world/debugSolid.png","D:/_Programming_Projects/MonoGame/Misc/TopDownCollisions2/TopDownCollisions2/Content/bin/world/debugSolid.xnb","TextureProcessor","Texture2DContent",136,1109,0.1915081
+"D:/_Programming_Projects/MonoGame/Misc/TopDownCollisions2/TopDownCollisions2/Content/world/player.png","D:/_Programming_Projects/MonoGame/Misc/TopDownCollisions2/TopDownCollisions2/Content/bin/world/player.xnb","TextureProcessor","Texture2DContent",158,213,0.0029931

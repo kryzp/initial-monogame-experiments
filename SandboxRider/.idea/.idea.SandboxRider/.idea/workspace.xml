@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ed0991b9-2fad-411c-9ab1-8ec0c7bd96cc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/SandboxRider/Controls/Button.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SandboxRider/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SandboxRider/Game1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SandboxRider/States/StateBase.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D195DA47-F292-4AA6-AB1F-FC82F421F850/86/cb73ede1/ICloneable.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SandboxRider/Sprites/Ball.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SandboxRider/Models/Score.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SandboxRider/States/StateMainMenu.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SandboxRider/States/StatePlaying.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SandboxRider/Component.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SandboxRider/Sprites/Sprite.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SandboxRider/Managers/ScoreManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SandboxRider/Models/Input.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SandboxRider/Sprites/Paddle.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SandboxRider/Sprites/ICollidable.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/SandboxRider/Program.cs" />
+        <option value="$PROJECT_DIR$/SandboxRider/Component.cs" />
+        <option value="$PROJECT_DIR$/SandboxRider/Sprites/ICollidable.cs" />
+        <option value="$PROJECT_DIR$/SandboxRider/Managers/AnimationManager.cs" />
+        <option value="$PROJECT_DIR$/SandboxRider/Models/Animation.cs" />
+        <option value="$PROJECT_DIR$/SandboxRider/Sprites/PlayerRight.cs" />
+        <option value="$PROJECT_DIR$/SandboxRider/Sprites/PaddleLeft.cs" />
+        <option value="$PROJECT_DIR$/SandboxRider/Sprites/PaddleRight.cs" />
+        <option value="$PROJECT_DIR$/SandboxRider/States/StateBase.cs" />
+        <option value="$PROJECT_DIR$/SandboxRider/Controls/Button.cs" />
+        <option value="$PROJECT_DIR$/SandboxRider/States/StateMainMenu.cs" />
+        <option value="$PROJECT_DIR$/SandboxRider/Models/Input.cs" />
+        <option value="$PROJECT_DIR$/SandboxRider/Models/Score.cs" />
+        <option value="$PROJECT_DIR$/SandboxRider/Sprites/Paddle.cs" />
+        <option value="$PROJECT_DIR$/SandboxRider/Managers/ScoreManager.cs" />
+        <option value="$PROJECT_DIR$/SandboxRider/Sprites/Ball.cs" />
+        <option value="$PROJECT_DIR$/SandboxRider/Sprites/Sprite.cs" />
+        <option value="$PROJECT_DIR$/SandboxRider/SandboxRider.csproj" />
+        <option value="$PROJECT_DIR$/SandboxRider/Game1.cs" />
+        <option value="$PROJECT_DIR$/SandboxRider/States/StatePlaying.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XMLFYviZjv1BYQtuxI4PErb3GN" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+  </component>
+  <component name="RunManager">
+    <configuration name="SandboxRider" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/SandboxRider/SandboxRider.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ed0991b9-2fad-411c-9ab1-8ec0c7bd96cc" name="Default Changelist" comment="" />
+      <created>1580850918047</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580850918047</updated>
+      <workItem from="1580850930309" duration="3033000" />
+      <workItem from="1580853996515" duration="1171000" />
+      <workItem from="1580916088696" duration="74000" />
+      <workItem from="1580916290481" duration="3513000" />
+      <workItem from="1580920184832" duration="1723000" />
+      <workItem from="1580928566958" duration="8174000" />
+      <workItem from="1580976450221" duration="478000" />
+      <workItem from="1580996658389" duration="2819000" />
+      <workItem from="1581093687569" duration="328000" />
+      <workItem from="1581101233001" duration="31000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="WindowStateProjectService">
+    <state width="1877" height="283" key="GridCell.Tab.0.bottom" timestamp="1581094015483">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="283" key="GridCell.Tab.0.bottom/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1581094015483" />
+    <state width="1877" height="283" key="GridCell.Tab.0.center" timestamp="1581094015483">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="283" key="GridCell.Tab.0.center/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1581094015483" />
+    <state width="1877" height="283" key="GridCell.Tab.0.left" timestamp="1581094015483">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="283" key="GridCell.Tab.0.left/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1581094015483" />
+    <state width="1877" height="283" key="GridCell.Tab.0.right" timestamp="1581094015483">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="283" key="GridCell.Tab.0.right/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1581094015483" />
+    <state x="739" y="140" key="RiderGenerateDialog" timestamp="1580920566161">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="739" y="140" key="RiderGenerateDialog/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1580920566161" />
+    <state x="402" y="212" key="SettingsEditor" timestamp="1580996831261">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="402" y="212" key="SettingsEditor/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1580996831261" />
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1580937657715">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1580937657715" />
+    <state x="682" y="437" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1580916749121">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="682" y="437" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1580916749121" />
+  </component>
+</project>

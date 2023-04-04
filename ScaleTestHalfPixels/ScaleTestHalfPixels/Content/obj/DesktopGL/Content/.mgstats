@@ -1,0 +1,3 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"D:/_Programming_Projects/MonoGame/Misc/ScaleTestHalfPixels/ScaleTestHalfPixels/Content/pointer.png","D:/_Programming_Projects/MonoGame/Misc/ScaleTestHalfPixels/ScaleTestHalfPixels/Content/bin/DesktopGL/Content/pointer.xnb","TextureProcessor","Texture2DContent",132,409,0.1965106
+"D:/_Programming_Projects/MonoGame/Misc/ScaleTestHalfPixels/ScaleTestHalfPixels/Content/snowman.png","D:/_Programming_Projects/MonoGame/Misc/ScaleTestHalfPixels/ScaleTestHalfPixels/Content/bin/DesktopGL/Content/testSprite.xnb","TextureProcessor","Texture2DContent",264,1381,0.1914885

@@ -1,0 +1,2 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"D:/_Programming_Projects/MonoGame/Misc/LoadingScreenTest/LoadingScreenTest/Content/loadingCircle.png","D:/_Programming_Projects/MonoGame/Misc/LoadingScreenTest/LoadingScreenTest/Content/bin/DesktopGL/Content/loadingCircle.xnb","TextureProcessor","Texture2DContent",177,1877,0.2084464

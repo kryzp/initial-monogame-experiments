@@ -1,0 +1,3 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"D:/_Programming_Projects/MonoGame/SandboxRider/SandboxRider/bin/Debug/Content/Ball.png","D:/_Programming_Projects/MonoGame/SandboxRider/SandboxRider/bin/Debug/Content/bin/Ball.xnb","TextureProcessor","Texture2DContent",91,121,0.1924849
+"D:/_Programming_Projects/MonoGame/SandboxRider/SandboxRider/bin/Debug/Content/Paddle.png","D:/_Programming_Projects/MonoGame/SandboxRider/SandboxRider/bin/Debug/Content/bin/Paddle.xnb","TextureProcessor","Texture2DContent",92,277,0.0029923

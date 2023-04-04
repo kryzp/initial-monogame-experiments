@@ -1,0 +1,11 @@
+D:\_Programming_Projects\MonoGame\Misc\TopDownCollisions2\TopDownCollisions2\bin\Debug\TopDownCollisions2.exe
+D:\_Programming_Projects\MonoGame\Misc\TopDownCollisions2\TopDownCollisions2\bin\Debug\TopDownCollisions2.pdb
+D:\_Programming_Projects\MonoGame\Misc\TopDownCollisions2\TopDownCollisions2\bin\Debug\MonoGame.Framework.dll
+D:\_Programming_Projects\MonoGame\Misc\TopDownCollisions2\TopDownCollisions2\bin\Debug\MonoGame.Framework.xml
+D:\_Programming_Projects\MonoGame\Misc\TopDownCollisions2\TopDownCollisions2\obj\Debug\TopDownCollisions2.csprojAssemblyReference.cache
+D:\_Programming_Projects\MonoGame\Misc\TopDownCollisions2\TopDownCollisions2\obj\Debug\TopDownCollisions2.csproj.CoreCompileInputs.cache
+D:\_Programming_Projects\MonoGame\Misc\TopDownCollisions2\TopDownCollisions2\obj\Debug\TopDownCollisions2.csproj.CopyComplete
+D:\_Programming_Projects\MonoGame\Misc\TopDownCollisions2\TopDownCollisions2\obj\Debug\TopDownCollisions2.exe
+D:\_Programming_Projects\MonoGame\Misc\TopDownCollisions2\TopDownCollisions2\obj\Debug\TopDownCollisions2.pdb
+D:\_Programming_Projects\MonoGame\Misc\TopDownCollisions2\TopDownCollisions2\bin\Debug\Content\bin\world\debugSolid.xnb
+D:\_Programming_Projects\MonoGame\Misc\TopDownCollisions2\TopDownCollisions2\bin\Debug\Content\bin\world\player.xnb

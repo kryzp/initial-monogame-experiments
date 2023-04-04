@@ -1,0 +1,2 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"D:/_Programming_Projects/MonoGame/Test/ECS1/ECS1/Content/box.png","D:/_Programming_Projects/MonoGame/Test/ECS1/ECS1/Content/bin/DesktopGL/Content/box.xnb","TextureProcessor","Texture2DContent",155,1109,0.1904911

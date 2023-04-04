@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f39a9b7d-b960-404a-81fa-0be19ed11eaa" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/TopDownMovement/IComponent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TopDownMovement/Sprites/ICollidable.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TopDownMovement/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TopDownMovement/Sprites/Sprite.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TopDownMovement/Meta/Camera.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TopDownMovement/Models/PlayerInput.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TopDownMovement/Game1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TopDownMovement/Sprites/Wall.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TopDownMovement/Sprites/Player.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/TopDownMovement/Program.cs" />
+        <option value="$PROJECT_DIR$/TopDownMovement/TopDownMovement.csproj" />
+        <option value="$PROJECT_DIR$/TopDownMovement/Sprites/ICollidable.cs" />
+        <option value="$PROJECT_DIR$/TopDownMovement/IComponent.cs" />
+        <option value="$PROJECT_DIR$/TopDownMovement/Models/Input.cs" />
+        <option value="$PROJECT_DIR$/TopDownMovement/Models/PlayerInput.cs" />
+        <option value="$PROJECT_DIR$/TopDownMovement/Sprites/Wall.cs" />
+        <option value="$PROJECT_DIR$/TopDownMovement/Sprites/Sprite.cs" />
+        <option value="$PROJECT_DIR$/TopDownMovement/Sprites/Player.cs" />
+        <option value="$PROJECT_DIR$/TopDownMovement/Game1.cs" />
+        <option value="$PROJECT_DIR$/TopDownMovement/Meta/Camera.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1a8VfZTq6hxfdEEmjfX3JJZiHgM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.SolutionExplorerActivator" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.C#" />
+  </component>
+  <component name="RunManager">
+    <configuration name="TopDownMovement" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/TopDownMovement/TopDownMovement.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f39a9b7d-b960-404a-81fa-0be19ed11eaa" name="Default Changelist" comment="" />
+      <created>1586117312623</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586117312623</updated>
+      <workItem from="1586117316530" duration="8800000" />
+      <workItem from="1586173334764" duration="2620000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="WindowStateProjectService">
+    <state width="1877" height="167" key="GridCell.Tab.0.bottom" timestamp="1586193671793">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="167" key="GridCell.Tab.0.bottom/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1586193671793" />
+    <state width="1877" height="167" key="GridCell.Tab.0.center" timestamp="1586193671792">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="167" key="GridCell.Tab.0.center/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1586193671792" />
+    <state width="1877" height="167" key="GridCell.Tab.0.left" timestamp="1586193671792">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="167" key="GridCell.Tab.0.left/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1586193671792" />
+    <state width="1877" height="167" key="GridCell.Tab.0.right" timestamp="1586193671793">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="167" key="GridCell.Tab.0.right/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1586193671793" />
+    <state x="742" y="225" key="RiderGenerateDialog" timestamp="1586118965179">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="742" y="225" key="RiderGenerateDialog/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1586118965179" />
+    <state x="636" y="182" key="SettingsEditor" timestamp="1586192862075">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="636" y="182" key="SettingsEditor/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1586192862075" />
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1586193263217">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1586193263217" />
+  </component>
+</project>

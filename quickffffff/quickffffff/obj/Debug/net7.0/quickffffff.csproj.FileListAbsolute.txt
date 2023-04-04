@@ -1,0 +1,15 @@
+/Users/kryzp/Documents/Programming/C#/quickffffff/quickffffff/bin/Debug/net7.0/quickffffff
+/Users/kryzp/Documents/Programming/C#/quickffffff/quickffffff/bin/Debug/net7.0/quickffffff.deps.json
+/Users/kryzp/Documents/Programming/C#/quickffffff/quickffffff/bin/Debug/net7.0/quickffffff.runtimeconfig.json
+/Users/kryzp/Documents/Programming/C#/quickffffff/quickffffff/bin/Debug/net7.0/quickffffff.dll
+/Users/kryzp/Documents/Programming/C#/quickffffff/quickffffff/bin/Debug/net7.0/quickffffff.pdb
+/Users/kryzp/Documents/Programming/C#/quickffffff/quickffffff/obj/Debug/net7.0/quickffffff.csproj.AssemblyReference.cache
+/Users/kryzp/Documents/Programming/C#/quickffffff/quickffffff/obj/Debug/net7.0/quickffffff.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kryzp/Documents/Programming/C#/quickffffff/quickffffff/obj/Debug/net7.0/quickffffff.AssemblyInfoInputs.cache
+/Users/kryzp/Documents/Programming/C#/quickffffff/quickffffff/obj/Debug/net7.0/quickffffff.AssemblyInfo.cs
+/Users/kryzp/Documents/Programming/C#/quickffffff/quickffffff/obj/Debug/net7.0/quickffffff.csproj.CoreCompileInputs.cache
+/Users/kryzp/Documents/Programming/C#/quickffffff/quickffffff/obj/Debug/net7.0/quickffffff.dll
+/Users/kryzp/Documents/Programming/C#/quickffffff/quickffffff/obj/Debug/net7.0/refint/quickffffff.dll
+/Users/kryzp/Documents/Programming/C#/quickffffff/quickffffff/obj/Debug/net7.0/quickffffff.pdb
+/Users/kryzp/Documents/Programming/C#/quickffffff/quickffffff/obj/Debug/net7.0/quickffffff.genruntimeconfig.cache
+/Users/kryzp/Documents/Programming/C#/quickffffff/quickffffff/obj/Debug/net7.0/ref/quickffffff.dll

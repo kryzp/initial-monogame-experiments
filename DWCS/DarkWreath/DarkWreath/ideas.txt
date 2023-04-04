@@ -1,0 +1,104 @@
+﻿no 'rng' based activities that require skill
+-> as in rng like in WoT when you dont know where the shell will go
+-> still rng based recoil but you always know where youre pointing as the laser marker is always right
+
+-> when reloading its not a 'time' based mechanic but instead you move your cursor in a specific way to reload
+|
++--> e.g: move to left, spin clockwise, and move to right for the revolver to imitate reloading
+|    e.g: move down then up to imitate an assault rifle magazine
+|
++--> this makes it so things that take longer to use (and generally are more powerful) just have more complicated patterns
+     e.g: an assault rifle is preferred because its of medium strength but more importantly its incredibly easy to reload (down then up) and forgiving when aiming (lots of small damage bullets)
+          meanwhile the revolver is much stronger (higher damage bullets) and has more range but also only has 6 bullets so its less forgiving when missing, and in addition its reload patten
+          is more complex, making it so reloading it is harder when under pressure, making it less beginner friendly.
+          finally, sniper rifles might have super complex reload patterns that make them super unforgiving in CQC so they are highly encouraged to be used long range instead
+          a neat side effect is that this makes reloading force you to stop aiming, making it so you cant just reload when running away from something without having a piece
+          of your view and attention taken away, leading to cool player choices on whether they should reload or just run away and seek cover, then reload.
+
+-> fixing gear minigame:
+   e.g: fixing the revolver you go through and clean it out as it gets dirty over time (the dirtier it is the more of a chance there is that it will jam or something during usage which is a big deal!)
+
+-> bullet trails?
+
+-> game is randomly generated between points that have been created by me
+   this way the map still has the interesting parts of the map at constant locations but there is lots of interesting things procedurally generated between those locations
+   that make each playthrough unique :) :: and since i dont want any loading zones where the screen fades in and out apart from things like enterances to giant caves etc... where i
+   cannot fake a Z-Axis i will need to split the world into 'chunks'
+   
+-> <click> when no ammo left in clip/magazine
+
+-> no 'ammo left in clip/mag' indicator - that is up to the player to either check with [G] or just keep track of in their head
+
+-> there is no 'health bar' (this is NOT a numbers game). General 'health' is characterized by what your character can or cannot do, and what debuffs are shown in the MARAUDER's [HEALTH] section
+   should [HEALTH] be an acronym?
+   e.g: eye damage from shrapnel = strong vignette and blurred edges that actually HINDER the view of you as the player, not some stupid "less accuracy when aiming"
+
+-> you can forcefully keep running even once your stamina runs out at the cost of your legs getting 'sprained' and your stamina doesnt regen / can't run for a while after that 'final push'
+
+-> player can only holster a certain number of large and small arms weapons, ammo and a backpack for general items
+   backpack) increases general inventory size
+   large arms) assault rifles, sniper rifles, etc... The kind you have to holster on your back using a belt - 2 maximum seems like a good limit?
+   small arms) pistols, knives, revolvers, etc... The kind you keep in a push on your belt - 2 maximum + ammo + knife slot seems like a good limit?
+   Additionally, you can get different gear that may have more pockets for pistols and ammunition but as a downside be less defensive against shrapnel and the like...
+
+-> in this game point-blanc 'damage' doesnt reallllyy matter. Every pistol and assault rifle and sniper rifle will deal the same damage to someones organ, the real
+   property that defines the strength of these weapons is their penetration capability - e.g: a pistol and assault rifle may shoot at a lower velocity making bullets ricochet
+   off of metal plating when shot at, say, a 45deg angle (bullets are simulated so they keep going after theyre bounced, allowing you to attack people around the corner by, say,
+   throwing a grenade on the wall and it bounces off into their vicinity) making it hard to attack someone when they're hiding behnind cover, but a revolver might be powerful enough
+   to shoot through the metal plating and actually hit them.
+   
+   however, consumables in the form of drugs are incredibly useful. E.g: administering a pain killer (of varying strength) will reduce the side effects of a limp when trying to run
+   due to a shot / shrapnel in the leg. A downside of this is that once it wears off your leg will be in even worse condition than it was before - possibly leading you into a slippery
+   slope of constantly administering pain killers over and over until you die. Performance enhancing drugs may slow down time to simulate enhanced reaction times but taking too many
+   in a row may kill you from overdose or once it wears off leave you in an incredibly indefensible position where you may die.
+   
+-> drugs come in varying forms of strength and potency. For example, administering a super strong painkiller like opium to a small wound may actually hinder you as your view will become incredibly
+   blurry, or maybe administering it to your leg will actually stop you from controlling your leg properly, so administering the right strength of painkiller is a big deal.
+   same goes for performance enhancing drugs, which may actually just straight up kill you if you take too much.
+   
+-> cover is a BIG DEAL HERE. Since all weapons will do roughly the same amount of damage hiding behind cover and only attacking when you can is a big deal as getting hit could mean
+   not being able to run or see properly which could have a butterfly effect into your death.
+   
+-> speaking sounds are like in undertale - .mp3 that just gets looped at different volume + pitch for each letter they say, exclude ' '
+
+-> local radio the MARAUDER picks up that procedurally generates based on what the player is doing.
+   e.g: you kill a group of raiders terrorising 5 people, then the radio will talk about an unknown vigilante
+        that heroically saved a group of people from raiders
+
+-> you can kill *anyone* like in fallout new vegas. even if theyre 'crucial' to the plot. if you need to talk to someone for information on a quest youre doing but you kill them instead, the game
+   doesnt stop you, you just need to find another lead for the quest, or youre just done and youll need to find the quest by chance.
+
+-> no hunder/thirst bars as it is just really annoying and an inconvenience and just throws off the game - consumables still exist in the form of drugs however
+
+MARAUDER GEAR - kinda like the PipBoy from Fallout:
+---------------------------------------------------
+-> consists of the main processor unit on your arm that has a display and
+   also an 'eyepiece' that covers one eye and one ear that allows you to listen
+   to radio it picks up and allows you to enter 'MarauderMode' by pressing [Q]
+   that turns the screen a Green CRT effect and allows you to learn more about the world
+   by scanning things and e.g tells you what the dangers of something is or what a plant
+   drops
+   
+-> has a version of VATS but its not a slowdown time step based one, more like it just assists you
+   by showing the weak points of an enemy and also highlights them in red
+   
+-> can be upgraded at a workbench using your own player skill! (e.g solve a circuit puzzle
+|  that gets randomly generated using some item you find somewhere in e.g an abandoned warehouse
+|  to let you access e.g greater radio frequencies allowing you to access more rewarding quests)
+|
++--> DONT INFORM THE PLAYER THAT THEY CAN DO THIS 'directly', ALLOW THEM TO DISCOVER THIS BY FINDING
+|   A QUESTLINE THAT TEACHES THEM THE BASICS
+|
++--> MORE EXPERIENCED PLAYERS CAN THEN THEREFORE JUST SKIP DIRECTLY TO UPGRADING WITHOUT DOING THE QUEST
+     BUT THE QUEST ALSO REWARDS WITH SOME INITIAL PARTS SO MAYBE IT IS STILL BENEFICIAL TO DO IT (UP TO THEM)
+
+-> stands for:
+   [M]obility
+   [A]action
+   [R]econnaissance
+   [A]nd
+   [U]tility
+   [D]device
+       &
+   [E]yepiece
+   [R]eticle

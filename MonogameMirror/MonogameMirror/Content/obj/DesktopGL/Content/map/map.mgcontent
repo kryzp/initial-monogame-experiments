@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>D:/_PROJECTS/MonogameMirror/MonogameMirror/Content/map/map.tmx</SourceFile>
+  <SourceTime>2021-10-25T12:51:00.0475748-07:00</SourceTime>
+  <DestFile>D:/_PROJECTS/MonogameMirror/MonogameMirror/Content/bin/DesktopGL/Content/map/map.xnb</DestFile>
+  <DestTime>2021-10-25T13:06:58.9050192-07:00</DestTime>
+  <Importer>TiledMapImporter</Importer>
+  <ImporterTime>2021-10-25T12:57:15.068182-07:00</ImporterTime>
+  <Processor>PassThroughProcessor</Processor>
+  <ProcessorTime>2020-08-10T09:17:54-07:00</ProcessorTime>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
